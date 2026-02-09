@@ -17,7 +17,7 @@ const App = () => (
       <TooltipProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter>
+        <BrowserRouter basename="/dynamic-builder-studio">
           <Routes>
             <Route path="/" element={<Landing />} />
             <Route path="/builder" element={<Builder />} />

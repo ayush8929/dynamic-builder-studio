@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ayush8929/dynamic-builder-studio",
+  "homepage": "https://ayush8929.github.io/dynamic-builder-studio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
