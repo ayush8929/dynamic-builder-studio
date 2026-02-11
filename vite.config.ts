@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/dynamic-builder-studio/", // 🔴 CHANGE THIS to your repo name
+  base: "/", // 🔴 CHANGE THIS to your repo name
 
   server: {
     host: "::",
